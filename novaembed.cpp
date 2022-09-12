@@ -136,14 +136,18 @@ QString PixMapName="";
     else
         system_terminal = "xterm ";
 
-    if ( QFile("/usr/bin/gedit").exists())
+    if ( QFile("/usr/bin/mousepad").exists())
+        system_editor = "mousepad";
+    else if ( QFile("/usr/bin/gedit").exists())
         system_editor = "gedit";
     else if ( QFile("/usr/bin/kwrite").exists())
         system_editor = "kwrite";
     else if ( QFile("/usr/bin/xedit").exists())
         system_editor = "xedit";
 
-    if ( QFile("/usr/bin/okular").exists())
+    if ( QFile("/usr/bin/qpdfview").exists())
+        system_pdf_viewer = "qpdfview";
+    else if ( QFile("/usr/bin/okular").exists())
         system_pdf_viewer = "okular";
     else if ( QFile("/usr/bin/evince").exists())
         system_pdf_viewer = "evince";
@@ -699,7 +703,7 @@ int NOVAembed::run_script(void)
     system("rm -f /tmp/result");
     system("chmod 777 /tmp/script");
 
-    QString term_cmd=system_terminal+"-geometry 120x32 -e /tmp/script";
+    QString term_cmd=system_terminal+" -e /tmp/script";
     system(term_cmd.toLatin1().constData());
 
     QFile file("/tmp/result");

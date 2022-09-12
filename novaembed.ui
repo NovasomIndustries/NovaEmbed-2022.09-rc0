@@ -36,7 +36,7 @@
      </font>
     </property>
     <property name="currentIndex">
-     <number>0</number>
+     <number>8</number>
     </property>
     <widget class="QWidget" name="tabWelcome">
      <attribute name="title">
@@ -486,6 +486,7 @@
       </property>
       <property name="font">
        <font>
+        <pointsize>9</pointsize>
         <weight>75</weight>
         <bold>true</bold>
        </font>
@@ -723,6 +724,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>75</weight>
          <bold>true</bold>
         </font>
@@ -764,6 +766,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>75</weight>
          <bold>true</bold>
         </font>
@@ -792,6 +795,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <italic>true</italic>
         </font>
        </property>
@@ -813,6 +817,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <italic>true</italic>
         </font>
        </property>
@@ -905,6 +910,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>75</weight>
          <bold>true</bold>
         </font>
@@ -946,6 +952,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <italic>true</italic>
         </font>
        </property>
@@ -1422,6 +1429,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>75</weight>
          <italic>true</italic>
          <bold>true</bold>
@@ -1445,6 +1453,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <italic>true</italic>
          <bold>false</bold>
@@ -1533,6 +1542,7 @@
          </property>
          <property name="font">
           <font>
+           <pointsize>9</pointsize>
            <weight>75</weight>
            <italic>true</italic>
            <bold>true</bold>
@@ -1561,6 +1571,7 @@
          </property>
          <property name="font">
           <font>
+           <pointsize>9</pointsize>
            <weight>75</weight>
            <italic>true</italic>
            <bold>true</bold>
@@ -1645,6 +1656,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>75</weight>
          <bold>true</bold>
         </font>
@@ -1731,6 +1743,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>75</weight>
          <bold>true</bold>
         </font>
@@ -1772,6 +1785,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>75</weight>
          <bold>true</bold>
         </font>
@@ -1800,6 +1814,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <italic>true</italic>
         </font>
        </property>
@@ -1903,6 +1918,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <italic>true</italic>
          <bold>false</bold>
@@ -1946,6 +1962,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <italic>true</italic>
         </font>
        </property>
@@ -1967,6 +1984,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <italic>true</italic>
         </font>
        </property>
@@ -1988,6 +2006,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>75</weight>
          <bold>true</bold>
         </font>
@@ -2051,6 +2070,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <italic>true</italic>
          <bold>false</bold>
@@ -2074,6 +2094,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <bold>false</bold>
         </font>
@@ -2103,6 +2124,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <italic>true</italic>
         </font>
        </property>
@@ -2167,6 +2189,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <italic>true</italic>
          <bold>false</bold>
@@ -2200,6 +2223,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <italic>true</italic>
          <bold>false</bold>
@@ -2223,6 +2247,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <italic>true</italic>
          <bold>false</bold>
@@ -2349,6 +2374,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <bold>false</bold>
         </font>
@@ -2378,6 +2404,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <italic>true</italic>
          <bold>false</bold>
@@ -2430,6 +2457,7 @@
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>75</weight>
          <bold>true</bold>
         </font>
@@ -134257,6 +134285,7 @@ a PCAP or an external RT touch</string>
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <italic>true</italic>
          <bold>false</bold>
@@ -134295,6 +134324,7 @@ a PCAP or an external RT touch</string>
        </property>
        <property name="font">
         <font>
+         <pointsize>9</pointsize>
          <weight>50</weight>
          <italic>true</italic>
          <bold>false</bold>
@@ -134446,6 +134476,9 @@ a PCAP or an external RT touch</string>
      </widget>
     </widget>
     <widget class="QWidget" name="tabTools">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
      <attribute name="title">
       <string>Tools</string>
      </attribute>
@@ -134542,7 +134575,7 @@ a PCAP or an external RT touch</string>
      <x>0</x>
      <y>0</y>
      <width>1268</width>
-     <height>24</height>
+     <height>22</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile">
