@@ -131,10 +131,12 @@ QString PixMapName="";
         std::cout << "Network is up\n" << std::flush;
     }
 
-    if ( QFile("/usr/bin/tilix").exists())
-        system_terminal = "tilix -";
+    if ( QFile("/usr/bin/xfce4-terminal").exists())
+        system_terminal = "xfce4-terminal";
+    else if ( QFile("/usr/bin/tilix").exists())
+        system_terminal = "tilix";
     else
-        system_terminal = "xterm ";
+        system_terminal = "xterm";
 
     if ( QFile("/usr/bin/mousepad").exists())
         system_editor = "mousepad";
