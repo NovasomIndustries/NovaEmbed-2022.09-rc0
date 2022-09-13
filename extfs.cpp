@@ -110,7 +110,7 @@ const char *cmd;
     else
         currentboard=ui->Board_comboBox->currentText();
 
-    Qcmd = "rm /tmp/distros*.* ; cd /tmp; wget --tries=2 --timeout=10 http://"+repo_server+"/OS/distros.cfg";
+    Qcmd = "rm /tmp/distros*.* ; cd /tmp; wget --tries=2 --timeout=10 https://"+repo_server+"/OS/distros.cfg";
     update_status_bar("Trying "+repo_server);
     ba = Qcmd.toLatin1();
     cmd = ba.data();

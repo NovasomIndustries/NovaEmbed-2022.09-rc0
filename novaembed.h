@@ -52,8 +52,8 @@
 #define NXP_U_BOOTLOADER    "u-boot-novasomU-2016.03"
 #define QUALCOMM_BOOTLOADER "u-boot-novasomM8-2017.11"
 
-#define SYSTEM_REPO_SERVER      "93.41.190.216"
-#define BKP_SYSTEM_REPO_SERVER  "93.41.190.216"
+#define SYSTEM_REPO_SERVER      "novaembed-files.emc-computers.ro"
+#define BKP_SYSTEM_REPO_SERVER  "novaembed-files.emc-computers.ro"
 #define HUM_P               "NI150316-HUM-P.pdf"
 #define HUM_U5              "N.U-200417-HUM-U5.pdf"
 #define HUM_M7              "N.M7-250518-HUM-M7.pdf"
