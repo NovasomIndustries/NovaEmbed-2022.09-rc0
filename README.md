@@ -1,20 +1,17 @@
-# NOVAsom_SDK 2020.09 NOVAembed
-# (C) Copyright 2017, 2018, 2019 , 2020 Novasom Industries
+# NovaEmbed-2022.09
+## Copyright 2017-2022 Novasom Industries
 
-Summary:
-========
-This repo contains the NOVAembed graphic tool for the NOVAsom_SDK 2020.09 Novasom Industries 
+This repository contains the NOVAembed graphical environment, a component of Novasom Industries' NovaSDK.
 project.
-Can be downloaded at at [NOVAsomIndustries on github](https://github.com/NovasomIndustries/NOVAembed-2020.09).
-## Prerequisities
-A running Debian 10 or an equivalent virtual machine.
+The canonical repository can be found at [NovasomIndustries/NovaEmbed-2022.09-rc0](https://github.com/NovasomIndustries/NovaEmbed-2022.09-rc0) on GitHub.
+As part of the NovaSDK, this software is built and tested on Ubuntu 22.04.
+
 ## Authors
-```
- **Filippo Visocchi      ** - *Initial work* - [NOVAsomIndustries](http://www.novasomindustries.com)
- **Michele Puca          ** - *Initial work* - [NOVAsomIndustries](http://www.novasomindustries.com)
-```
+
+- Karel Sedláček: 2022 updates ([Right Side Round](https://rightsideround.com))
+- Filippo Visocchi: Initial work ([NOVAsomIndustries](http://www.novasomindustries.com))
+- Michele Puca: Initial work ([NOVAsomIndustries](http://www.novasomindustries.com))
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-# NOVAembed-2020.09
-# NOVAembed-2020.09
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
