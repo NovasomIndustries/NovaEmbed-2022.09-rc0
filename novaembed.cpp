@@ -1457,7 +1457,7 @@ void NOVAembed::on_ViewUpdatesLog_pushButton_clicked()
 void NOVAembed::on_actionVersion_triggered()
 {
     QString whole="NOVAembed V."+Version;
-    char msg1[]="Copyright 2015-2020 Novasomindustries.\nAll rights reserved.\n\nThe program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n";
+    char msg1[]="Copyright 2015-2022 Novasomindustries.\nAll rights reserved.\n\nThe program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n";
 
     QByteArray ba = whole.toLatin1();
     const char *msg0 = ba.data();
